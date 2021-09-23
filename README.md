@@ -2,6 +2,8 @@
 
 Implementation of basic snake game in using olcPixelGameEngine
 
+https://divyamahuja.github.io/snake_wasm
+
 ## Building and Running
 
 To Build and Run on Windows.
